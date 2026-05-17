@@ -111,7 +111,7 @@ Source: [Kaggle — PlantVillage](https://www.kaggle.com/datasets/emmarex/plantd
 
 ### Run the notebook on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/useribtyssem/plant-disease-detection/blob/main/notebooks/Plant_Disease_Detection_Phase1.ipynb](https://github.com/useribtyssem/plant-disease-detection/blob/main/notebooks/Plant_Disease_Detection_Phase1%20(1).ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/useribtyssem/plant-disease-detection/blob/main/notebooks/Plant_Disease_Detection_Phase1(1).ipynb))
 
 1. Open the notebook in Colab
 2. Enable GPU: `Runtime` → `Change runtime type` → `T4 GPU`
