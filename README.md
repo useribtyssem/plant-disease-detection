@@ -6,7 +6,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?logo=tensorflow&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.9%25-27AE60)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Status](https://img.shields.io/badge/Status-Phase%201%20Complete-brightgreen)
 
 ---
 
