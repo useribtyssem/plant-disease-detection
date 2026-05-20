@@ -36,8 +36,8 @@ plant-disease-detection/
 │   ├── confusion_matrix.png                   ← Normalized confusion matrix
 │   ├── gradcam_visualization.png              ← Grad-CAM XAI visualizations
 │   └── sample_images.png                      ← Dataset sample images
-├── api/                                       ← Phase 2 (coming soon)
-├── frontend/                                  ← Phase 3 (coming soon)
+├── api/                                       ← FastAPI + Docker
+├── frontend/                                  ← React app
 ├── .gitignore
 ├── LICENSE
 └── README.md
