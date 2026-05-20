@@ -131,8 +131,8 @@ pip install -r requirements.txt
 ## Roadmap
 
 - [x] **Phase 1** — Dataset exploration, EfficientNetB0 training, Grad-CAM XAI
-- [ ] **Phase 2** — FastAPI REST API + Docker + Swagger documentation
-- [ ] **Phase 3** — React frontend + deployment on Hugging Face Spaces
+- [x] **Phase 2** — FastAPI REST API + Docker + Swagger documentation
+- [x] **Phase 3** — React frontend + deployment on Hugging Face Spaces
 
 ---
 
